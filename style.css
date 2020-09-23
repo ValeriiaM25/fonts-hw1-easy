@@ -1,0 +1,55 @@
+body {
+    margin: 70px;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 42px;
+    color: #171717;
+}
+
+span.letter {
+    font-family: 'Playfair Display', serif;
+	font-size: 70px;
+	line-height: 60px;    
+	vertical-align: top;
+    float: left;
+	margin: 0 10px 0 0;
+}
+
+p {
+    font-size: 18px;
+    line-height: 36px;
+    color: #171717;
+    font-family: "Lato", sans-serif;
+}
+
+  blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    font-family: "Lato", sans-serif;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+  }
+
+  blockquote p {
+    display: inline;
+    font-size: 24px;
+  }
+
+  button {
+      width: 264;
+      height: 68;
+      padding: 10px 30px;
+      margin: 20px 0;
+      border: 1px solid #eaa258;
+      background-color: #FFFFFF;
+      font-size: 18px;
+      letter-spacing: 4px;
+      line-height: 34px;
+      color: #eaa258;
+      font-weight: 700;
+      font-family: "Lato";
+      text-align: center;
+  }
